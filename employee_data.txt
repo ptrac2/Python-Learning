@@ -1,0 +1,99 @@
+Week Number: 1
+Employee ID: 1
+Employee Name: Haruki Mirakami
+Hours Worked:
+	Monday: 8.0
+	Tuesday: 8.0
+	Wednesday: 8.0
+	Thursday: 8.0
+	Friday: 8.0
+Week Number: 1
+Employee ID: 2
+Employee Name: Neal Stephenson
+Hours Worked:
+	Monday: 0.0
+	Tuesday: 8.0
+	Wednesday: 4.0
+	Thursday: 4.0
+	Friday: 10.0
+Week Number: 1
+Employee ID: 3
+Employee Name: Daniel Keyes
+Hours Worked:
+	Monday: 9.0
+	Tuesday: 8.0
+	Wednesday: 7.0
+	Thursday: 8.0
+	Friday: 10.0
+Week Number: 1
+Employee ID: 4
+Employee Name: Jeannette Walls
+Hours Worked:
+	Monday: 9.0
+	Tuesday: 9.0
+	Wednesday: 8.0
+	Thursday: 7.0
+	Friday: 6.0
+Week Number: 1
+Employee ID: 5
+Employee Name: Marcus Aurelius
+Hours Worked:
+	Monday: 6.0
+	Tuesday: 0.0
+	Wednesday: 0.0
+	Thursday: 4.0
+	Friday: 4.0
+Week Number: 1
+Employee ID: 6
+Employee Name: Cixin Liu
+Hours Worked:
+	Monday: 10.0
+	Tuesday: 12.0
+	Wednesday: 9.0
+	Thursday: 8.0
+	Friday: 9.0
+Week Number: 1
+Employee ID: 7
+Employee Name: Frank Herbert
+Hours Worked:
+	Monday: 4.0
+	Tuesday: 4.0
+	Wednesday: 4.0
+	Thursday: 4.0
+	Friday: 4.0
+Week Number: 1
+Employee ID: 1
+Employee Name: Pat
+Hours Worked:
+	Monday: 1
+	Tuesday: 1
+	Wednesday: 1
+	Thursday: 1
+	Friday: 1
+Week Number: 1
+Employee ID: 1
+Employee Name: Patrick
+Hours Worked:
+	Monday: 1.0
+	Tuesday: 2.0
+	Wednesday: 2.0
+	Thursday: 2.0
+	Friday: 2.0
+Week Number: 500
+Employee ID: 5000
+Employee Name: Mick
+Hours Worked:
+	Monday: -8.0
+	Tuesday: 5.0
+	Wednesday: 5.0
+	Thursday: 5.0
+	Friday: 5.0
+Week Number: 2
+Employee ID: 4
+Employee Name: Loch Ness Monster
+Hours Worked:
+	Monday: 8.0
+	Tuesday: 8.0
+	Wednesday: 0.0
+	Thursday: 10.0
+	Friday: 8.0
